@@ -1,5 +1,5 @@
 {
-	"name": "DOC1",
+	"name": "IT-DOC1-S23",
 	"build": {
 		"dockerfile": "Dockerfile",
 		"args": {
