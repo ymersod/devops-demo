@@ -1,4 +1,4 @@
-ame: CI Pipeline (DOC1)
+name: CI Pipeline (DOC1)
 on:
 #Manually trigger workflow runs
 workflow_dispatch:
