@@ -55,4 +55,4 @@ jobs:
           #Set artifact name
           name: RunnableJar
           #From this path
-          path: stagin
+          path: staging
