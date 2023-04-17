@@ -9,3 +9,4 @@ FROM eclipse-temurin:17-jdk-alpine
 # Expose port 8080
 EXPOSE 8080
 COPY --from=build /app/target/*jar devops-demo-1.0.jar
+ENTRYPOINT ["java","-jar","devops-demo-1.0.jar"]
